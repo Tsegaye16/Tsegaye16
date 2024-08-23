@@ -1,11 +1,8 @@
 [![MasterHead](https://drive.google.com/uc?export=view&id=1brkclnONFaqBDhoalLxhsFCbnLzFQhVB)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tsegaye Abewa</h1>
 <h3 align="center">A passionate Full-stack developer from Ethiopia</h3>
-<p align="right">
-  <a href="https://static.vecteezy.com/system/resources/previews/011/868/785/mp4/animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media-video.mp4">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="coding" width="400"/>
-  </a>
-</p>
+<img src="https://www.industryconnect.org/wp-content/uploads/2016/03/good-software-developer.gif" alt="coding" width="400"/>
+  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsegaye16&label=Profile%20views&color=0e75b6&style=flat" alt="tsegaye16" /> </p>
