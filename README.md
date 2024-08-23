@@ -1,9 +1,9 @@
+[![MasterHead](https://drive.google.com/uc?export=view&id=1brkclnONFaqBDhoalLxhsFCbnLzFQhVB)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tsegaye Abewa</h1>
 <h3 align="center">A passionate Full-stack developer from Ethiopia</h3>
+<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/011/868/785/mp4/animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media-video.mp4"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsegaye16&label=Profile%20views&color=0e75b6&style=flat" alt="tsegaye16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsegaye16" alt="tsegaye16" /></a> </p>
 
 - 🌱 I’m currently learning **React native**
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsegaye16&show_icons=true&locale=en" alt="tsegaye16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsegaye16&" alt="tsegaye16" /></p>
+
