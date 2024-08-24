@@ -15,7 +15,7 @@
 
 - 📄 Know about my background [https://drive.google.com/file/d/1JlbuzcYrEs0uF5tOZalDDtBHN2-06HIs/view?usp=sharing](https://drive.google.com/file/d/1JlbuzcYrEs0uF5tOZalDDtBHN2-06HIs/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
