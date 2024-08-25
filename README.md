@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node, Express, Database(MongoDB & MySQL)**
 
-- 📫 How to reach me **abewatsegaye16@gmail.com**
+- 📫 How to reach me **abewatsegaye16@gmail.com / +251 99 521 3296**
 
 - 📄 Know about my background [https://drive.google.com/file/d/1JlbuzcYrEs0uF5tOZalDDtBHN2-06HIs/view?usp=sharing](https://drive.google.com/file/d/1JlbuzcYrEs0uF5tOZalDDtBHN2-06HIs/view?usp=sharing)
 
