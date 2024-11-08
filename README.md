@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abewatsegaye16@gmail.com**
 
-- 📄 Know about my background [https://drive.google.com/file/d/1JlbuzcYrEs0uF5tOZalDDtBHN2-06HIs/view?usp=sharing](https://drive.google.com/file/d/1JlbuzcYrEs0uF5tOZalDDtBHN2-06HIs/view?usp=sharing)
+- 📄 Know about my background [https://drive.google.com/file/d/132wThuA3-jZuLYHSsUmnCukGFgG1BmDK/view?usp=sharing](https://drive.google.com/file/d/132wThuA3-jZuLYHSsUmnCukGFgG1BmDK/view?usp=sharing)
 
 - ⚡ **I am funny**
 
